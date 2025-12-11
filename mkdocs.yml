@@ -5,4 +5,5 @@ theme:
 nav:
   - Home: index.md 
   - Articles of Incorporation: articles-of-incorporation.md
-  - Statues
+  - By-Laws: by-laws.md
+  

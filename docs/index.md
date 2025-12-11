@@ -7,5 +7,5 @@ hide:
 
 ## Documents
 
-[Articles of Incorporation](articles-of-incorporation.md)
-Test13
+[Articles of Incorporation](articles-of-incorporation.md)  
+[By-Laws](by-laws.md)

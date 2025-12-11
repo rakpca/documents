@@ -113,4 +113,4 @@ I, SARAH C. BLANKENSHIP, a Notary Public, do hereby certify that on this 19th da
 *(Official Seal: Sarah C. Blankenship, Notary Public State of Texas, Comm. Expires Oct 7, 1990)*
 
 
-[ORIGINAL](originals/articles_of_incoporation.pdf)
+[ORIGINAL](originals/articles_of_incorporation.pdf)
