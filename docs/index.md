@@ -3,7 +3,9 @@ hide:
   - toc
 ---
 
-# Welcome to The Reserve at Kings Point Community Association Documents Repository
+## Welcome to The Reserve at Kings Point Community Association Documents Repository
+
+### USE the search at the top right hand of the screen
 
 ## Documents
 
@@ -27,4 +29,5 @@ hide:
 
 [Supplemental Notice of Dedicatory Instruments](supplemental-notice-of-dedicatory-instruments.md)
 
-[Architectural Review Committee - Overview](arc-overview.md)
+[Architectural Review Committee](arc.md)  
+
