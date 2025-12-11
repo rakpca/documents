@@ -26,3 +26,5 @@ hide:
 [Notice of Dedicatory Instruments - Guidelines and Policies](notice-dedicatory-instruments-guidelines-policies.md)  
 
 [Supplemental Notice of Dedicatory Instruments](supplemental-notice-of-dedicatory-instruments.md)
+
+[Architectural Review Committee - Overview](arc-overview.md)
