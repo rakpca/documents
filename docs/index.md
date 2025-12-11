@@ -19,3 +19,8 @@ hide:
 
 [Restrictive Covenants - Section 6](restrictive-covenants-section-6.md)  
 
+[Restrictive Covenants - Section 8](restrictive-covenants-section-8.md)  
+
+[Restrictive Covenants - Section 9](restrictive-covenants-section-9.md)  
+
+[Notice of Dedicatory Instruments - Guidelines and Policies](notice-dedicatory-instruments-guidelines-policies.md)
