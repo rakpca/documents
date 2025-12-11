@@ -393,3 +393,5 @@ c. Must be installed and maintained to avoid sagging, waving, warping or irregul
 
 [ORIGINAL](originals/arc-overview.pdf)  
 [ORIGINAL](originals/arc-a-e.pdf)   
+[ORIGINAL](originals/arc-e-i.pdf)
+[ORIGINAL](originals/arc-i.pdf)
