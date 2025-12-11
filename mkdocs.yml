@@ -1,0 +1,8 @@
+site_name: The Reserve at Kings Point Community Association Documents
+site_url: https://rakp.github.io/documents
+theme:
+  name: material
+nav:
+  - Home: index.md 
+  - Articles of Incorporation: articles-of-incorporation.md
+  - Statues
